@@ -1,4 +1,4 @@
-# COSC480-Project
+# Medical cost prediction
 ## Statement of Intent
 
 ## Background 
